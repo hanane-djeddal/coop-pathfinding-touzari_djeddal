@@ -6,6 +6,3 @@ En particulier:
 * les fiches de TDs
 * le sujet de TME de l'année courante et le code associé
 
-
-En plus, le projet développé par Djeddal Hanane et Touzari Liticia consistant à coder une stratégie du jeu.
-* Repertoire tme-projet
